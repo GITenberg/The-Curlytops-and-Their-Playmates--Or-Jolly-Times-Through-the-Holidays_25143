@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/808
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25143#The-Curlytops-and-Their-Playmates--Or-Jolly-Times-Through-the-Holidays
 gutenberg_issued: '2008-04-23'
 gutenberg_type: Text
 identifiers:
