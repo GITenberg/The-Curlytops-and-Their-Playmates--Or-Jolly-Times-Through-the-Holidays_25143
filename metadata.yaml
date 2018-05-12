@@ -1,0 +1,37 @@
+_repo: The-Curlytops-and-Their-Playmates--Or-Jolly-Times-Through-the-Holidays_25143
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greene, Julia
+    gutenberg_agent_id: '9693'
+    url: http://www.gutenberg.org/2009/agents/9693
+covers:
+- cover_type: archival
+  image_path: 25143-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2008-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: The Curlytops and Their Playmates; Or, Jolly Times Through the Holidays
+url: http://www.gutenberg.org/ebooks/25143
